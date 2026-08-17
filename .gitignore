@@ -1,0 +1,16 @@
+# Dependency directories (Never upload these!)
+node_modules/
+jspm_packages/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables / Secrets (Keep passwords off GitHub)
+.env
+.env.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
