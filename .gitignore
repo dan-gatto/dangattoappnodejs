@@ -2,6 +2,9 @@
 node_modules/
 jspm_packages/
 
+# TypeScript build output (Render rebuilds this via "npm run build")
+dist/
+
 # Logs
 logs
 *.log
